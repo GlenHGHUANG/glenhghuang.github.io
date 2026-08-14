@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://glenhghuang.github.io/sitemap.xml
